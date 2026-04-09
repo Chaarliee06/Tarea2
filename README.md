@@ -1,5 +1,5 @@
 # Tarea2
-CSSy flexbox
+CSS y flexbox
 
 # Menú con Flexbox
 
